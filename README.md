@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+See my Professional Experiences in [https://tufcoder.netlify.app/](https://tufcoder.netlify.app/)
+
 ![snake](https://github.com/tufcoder/tufcoder/blob/main/github-contribution-grid-snake.svg)
